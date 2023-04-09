@@ -1,6 +1,6 @@
 # KUCCxYCC-Hackathon
 
-# KUCC-x-YCC-hackathon-team-7
+### KUCC-x-YCC-hackathon-team-7
 ### 🎉🎊대상 수상🎊🎉
 ![image](https://user-images.githubusercontent.com/83508073/181937127-c9388bc1-91f1-474d-8ae3-d43de4c27444.png)
 ![image](https://user-images.githubusercontent.com/83508073/181937172-ca1f92b4-a1bb-49f1-92ed-62d2226cbf2f.png)
